@@ -1,0 +1,30 @@
+W 2300
+H 2300
+D 10
+M 15
+F 12
+
+A BUD 29 15 315 Budapest
+A PRA 19  8  45 Praha
+A ZUR  7 16 180 Zurich
+A BEL 31 24  45 Belgrade
+A SOF 37 30  90 Sofia
+A ATH 38 44  45 Athens
+A ROM 15 32   0 Rome
+A LVI 39  7  90 Lviv
+A TUN 10 46 315 Tunis
+
+E LON  0  0 315 London
+E MOS 49  0  45 Moscow
+E ANK 49 40  90 Ankara
+E WAR 30  0   0 Warsaw
+E MAR  0 30 270 Marseille
+E CAI 42 49 135 Cairo
+E NIG 19 49 180 Nigeria
+
+B FRA  7  7 Frankfurt
+B KRA 30  7 Krakow
+B TER 42  7 Ternopil
+B MLJ 25 30 Mljet
+B PES 19 30 Pescara
+B ART 33 40 Arta
